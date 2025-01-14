@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShooreshS
 - 💼 I work at HMS Labs
-- 👀 I’m interested in low level programmming
-- 🌱 I’m currently learning Linux kernel
+- 👀 I’m interested in low level programming
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on AI, distributed AI.
 - 📫 How to reach me ...
 
